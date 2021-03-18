@@ -1,0 +1,10 @@
+.single-player {
+  border: 1px solid lightgray;
+  width: 600px;
+  margin: 15px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+}
+.single-player img {
+  width: 500px;
+}
